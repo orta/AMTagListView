@@ -1,0 +1,6 @@
+try:
+  install:
+    pre:
+      - echo "Cool"
+      - echo "OK"
+  project: 'SwiftDemo/SwiftDemo.xcodeproj'
